@@ -1,5 +1,5 @@
 import tkinter as tk
-#:)
+
 # Crear Ventana
 ventana = tk.Tk()
 
