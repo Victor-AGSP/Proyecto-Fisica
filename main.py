@@ -19,7 +19,7 @@ def configurar():
 def datos():
     # Crear un widget Label con el texto deseado
     etiqueta = tk.Label(ventana, text="Peso del Objeto")
-    # Colocar el widget en la ventana
+    # Colocar el widget en la ventana B)
     etiqueta.pack()
 
 configurar()
