@@ -1,0 +1,40 @@
+Energía y fuerza de rozamiento en un péndulo
+Este proyecto simula la energía y fuerza de rozamiento en un péndulo no conservativo. Calcula la energía potencial gravitatoria y la fuerza de rozamiento, y muestra una representación gráfica del péndulo.
+
+Descripción del proyecto
+El objetivo de este proyecto es analizar el comportamiento de un péndulo no conservativo teniendo en cuenta la energía potencial gravitatoria y la fuerza de rozamiento. El programa utiliza la biblioteca Tkinter para crear una interfaz gráfica simple donde se ingresan los parámetros del péndulo y se obtienen los resultados.
+
+Evento físico a simular
+El estudio de los péndulos ha sido interesante debido a su comportamiento oscilante y su presencia en diferentes contextos. En este caso, nos enfocamos en un péndulo no conservativo con fuerzas de rozamiento que disipan energía del sistema.
+
+Cómo se resuelve
+El programa resuelve el problema mediante los siguientes pasos:
+
+Se ingresan los parámetros del péndulo: longitud, ángulo inicial, masa del objeto y constante de rozamiento.
+Al hacer clic en el botón "Calcular", se calcula la energía potencial gravitatoria y la fuerza de rozamiento.
+Los resultados se muestran en la interfaz gráfica.
+Se genera una representación gráfica del péndulo.
+Aplicaciones
+Este proyecto tiene aplicaciones en el estudio de sistemas físicos con fuerzas de rozamiento, como péndulos en presencia de aire u otros medios resistentes. También puede ayudar a comprender conceptos relacionados con la energía y fuerza en sistemas oscilantes.
+
+Programación
+El código fue escrito utilizando Python y las siguientes herramientas:
+
+math para cálculos matemáticos.
+Tkinter para crear la interfaz gráfica.
+matplotlib para graficar el péndulo.
+Guía de instalación
+Asegúrate de tener Python instalado en tu computadora.
+Instala la biblioteca Tkinter si no está incluida en tu instalación de Python. Puedes usar el siguiente comando en la línea de comandos:
+Copy code
+pip install tk
+Instala la biblioteca matplotlib si no está incluida en tu instalación de Python. Puedes usar el siguiente comando en la línea de comandos:
+Copy code
+pip install matplotlib
+Guía de uso
+Ejecuta el programa en tu entorno de desarrollo de Python.
+Se abrirá una ventana con campos para ingresar los parámetros del péndulo.
+Ingresa los valores de longitud, ángulo inicial, masa del objeto y constante de rozamiento.
+Haz clic en el botón "Calcular".
+Los resultados se mostrarán en la interfaz gráfica, incluyendo la energía potencial gravitatoria.
+Se abrirá una ventana con la representación gráfica del péndulo.
