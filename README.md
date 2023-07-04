@@ -39,4 +39,4 @@ Haz clic en el botón "Calcular".
 Los resultados se mostrarán en la interfaz gráfica, incluyendo la energía potencial gravitatoria.
 Se abrirá una ventana con la representación gráfica del péndulo.
 link del video explicativo:
-https://drive.google.com/file/d/1u13NV8nTNK2wAYE1a8VOv5RRS4U8akSp/view?usp=sharing
+https://drive.google.com/file/d/1C1fzH1X2R9of6shnT6huSBVsba3gauxb/view?usp=sharing
